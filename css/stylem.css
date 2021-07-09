@@ -2559,7 +2559,7 @@ body.classic .arlo_tm_contact .returnmessage{text-align: center;}
   }
   
   .skills .skills-wrap .skill-item {
-	width: calc(33% - 20px);
+	width: calc(25% - 20px);
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
